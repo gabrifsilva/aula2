@@ -22,7 +22,7 @@
     <title>Exemplo de php</title>
 </head>
 <body>
-    <h1>Olá Mundo XXX</h1>
+    <h1>Olá Mundo</h1>
     <form name="form1" method="GET" action="index.php">
         <label>Numero 1</label>
         <input type="text" name="numero1" />
